@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 -
--->- 👋 Hi, I’m @Rahu821123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-->- 👋 Hi, I’m @Rahul Gupta 
+- 👀 I’m interested in ... SOFTWARE TESTING 
+- 🌱 I’m currently learning ...JAVA,PYTHON, SELENIUM 
+- 💞️ I’m looking to collaborate on ... Project 
+- 📫 How to reach me ... rahu821@gmail.com
 
 <!---
 Rahu821123/Rahu821123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
